@@ -21,11 +21,11 @@ namespace Old_Glory.Controllers
             return Ok(product);
         }
 
-        [HttpPost]
-        public ActionResult CreateNewProduct()
-        {
-
-        }
+        //[HttpPost]
+        //public ActionResult CreateNewProduct()
+        //{
+            
+        //}
 
         [HttpDelete]
         public ActionResult DeleteRecipes()
@@ -37,7 +37,6 @@ namespace Old_Glory.Controllers
 
             return NoContent();
         }
-
 
     }
 }

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Old_Glory.Views
+namespace Old_Glory.Views.Shared
 {
     public class Customer
     {
